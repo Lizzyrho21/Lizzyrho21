@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lizzyrho21
+- 👋 Hi, I’m Lizzy! @Lizzyrho21
 - 👀 I’m interested in Front End Web Development and Animation
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Projects that will help me advance in my skills!
