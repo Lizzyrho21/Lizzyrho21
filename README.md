@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lizzy! @Lizzyrho21
-- 👀 I’m interested in Front End Web Development and Animation
-- 🌱 I’m currently learning Web development
+- 👋 Hi, I’m Lizzy! A Fullstack Developer @Lizzyrho21
+- 👀 I’m interested in FullStack Devlopment, UX/UI Design and Animation
+- 🌱 I’m currently learning UX/UI design
 - 💞️ I’m looking to collaborate on Projects that will help me advance in my skills!
 - 📫 How to reach me Lizzyrho@gmail.com
 
