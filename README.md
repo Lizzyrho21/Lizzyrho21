@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lizzy! A Junior Designer & Dev @Lizzyrho21
-- 👀 I’m interested in Full Stack Devlopment, UX/UI Design and Animation
-- 💞️ I’m looking to collaborate on Projects that will help me advance in my skills!
+- 👋 Hi, I’m Liz!
+- 👀 Currently learning: DSA and Illustrator
 - 📫 How to reach me Lizzyrho@gmail.com
 
 <!---
