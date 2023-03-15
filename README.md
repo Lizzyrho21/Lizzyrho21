@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Liz!
-- 👀 Currently learning: DSA and Illustrator
+- 👋 Hi, I’m Liz! I'm a UI/UX Designer and Developer 
+- 👀 Currently learning: Improving Responsive Web Design practices and Accessibility
 - 📫 How to reach me Lizzyrho@gmail.com
 
 <!---
